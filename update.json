@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.1.7",
+  "versionCode": 35,
+  "versionName": "1.1.8",
   "minSupported": 33,
   "force": true,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 更新源改为 123云盘优先（WebDAV），不再受 GitHub CDN 缓存影响\n2. 三个源自动取版本最高的，下载失败或校验不过自动换源\n3. 有 Root 时静默安装，装完自动打开新版本\n4. 修复「冻结应用」读不到应用列表\n5. 修复ID文件被写坏成 0 字节导致「读取不到ID」\n6. 版本号 1.1.7",
+  "changelog": "1. 更新源改为 123云盘优先（WebDAV），不再受 GitHub CDN 缓存影响\n2. 三个源自动取版本最高的，下载失败或校验不过自动换源\n3. 有 Root 时静默安装，装完自动打开新版本\n4. 修复「冻结应用」读不到应用列表\n5. 修复ID文件被写坏成 0 字节导致「读取不到ID」\n6. 版本号 1.1.8",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 759765,
-  "md5": "EDF78E69AA21F1C03E9CD0C8EFEFF216"
+  "md5": "55D1B55E0BA6209558279CAC2A6351D9"
 }
