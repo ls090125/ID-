@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.3",
+  "versionCode": 19,
+  "versionName": "1.5",
   "minSupported": 16,
   "force": false,
   "notice": {
@@ -11,6 +11,6 @@
   },
   "changelog": "1. 接入云端公告与版本更新\n2. 底部导航跟随滑动\n3. 修复切页背景跳动",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
-  "apkSize": 735189,
-  "md5": "39C450852D815A21BFD6DF62412976D0"
+  "apkSize": 751573,
+  "md5": "8E9CD2CD927AC9463845530943EE0514"
 }
