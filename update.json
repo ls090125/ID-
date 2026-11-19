@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.6",
+  "versionCode": 21,
+  "versionName": "1.7",
   "minSupported": 16,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 上号器支持备份到 123 云盘，按设备序列号分文件夹\n2. 支持多选备份、恢复、删除云端记录\n3. 弹窗改为圆角\n4. 底部导航可拖动切页",
+  "changelog": "1. 启动自动检查 Root / 安装未知应用权限，缺失时弹窗引导\n2. 首页右上角新增「权限」入口，随时可补授权\n3. 保留云端备份、圆角弹窗、导航拖动切页",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
-  "apkSize": 751573,
-  "md5": "8E9CD2CD927AC9463845530943EE0514"
+  "apkSize": 755669,
+  "md5": "3D633BF772E4710F494F5F29D54B6A11"
 }
