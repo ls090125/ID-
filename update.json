@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.1.0",
-  "minSupported": 27,
+  "versionCode": 28,
+  "versionName": "1.1.1",
+  "minSupported": 28,
   "force": true,
   "notice": {
     "id": 1,
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 版本号统一为 1.1.0\n2. 修复点「打开游戏」启动失败：普通 Intent 失败时自动用 Root 的 am / monkey 启动\n3. 修复备份列表最后一条被底部导航遮挡，点「上号」无反应\n4. 部分机型读不到应用列表时自动用 Root 枚举全部应用",
+  "changelog": "1. 有 Root 时更新改为静默安装，不再弹系统安装器\n2. 静默安装失败自动回退到系统安装流程\n3. 版本号 1.1.1",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 755669,
-  "md5": "59F59D04ABF1E42535E3093FEAEABEBF"
+  "md5": "1B885E6B80AF16B3C5EADA1CFE0A3A78"
 }
