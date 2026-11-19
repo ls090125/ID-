@@ -1,16 +1,16 @@
 {
-  "versionCode": 40,
-  "versionName": "1.1.5",
+  "versionCode": 41,
+  "versionName": "1.1.1",
   "minSupported": 0,
-  "force": false,
+  "force": true,
   "notice": {
     "id": 1,
     "title": "使用提醒",
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 更新弹窗新增「忽略更新」按钮\n2. 新增「今日不再弹出」勾选框，勾选后当天不再自动提醒\n3. 只有强制更新时才必须更新\n4. 版本号 1.1.5",
+  "changelog": "强制更新测试：修复已知bug，新增未知bug",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 759765,
-  "md5": "99AEB34E5628ABBFDDA311AE74440A39"
+  "md5": "7A49F0C8FE172FC5A14E8B9BA2BF9753"
 }
