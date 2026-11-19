@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.1.1",
+  "versionCode": 37,
+  "versionName": "1.1.2",
   "minSupported": 33,
   "force": true,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "修复已知bug，新增未知bug",
+  "changelog": "1. 修改ID页面右上角新增「检查更新」按钮\n2. 版本号 1.1.2",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 759765,
-  "md5": "47AF6B09EDFC0D551D7CEAF35A622EF1"
+  "md5": "E0AA6657413BF8410C9E019DB87C5166"
 }
