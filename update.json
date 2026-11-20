@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.2.1",
+  "versionCode": 45,
+  "versionName": "1.1.2",
   "minSupported": 0,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 移除「光猫工具」页面（改为电脑端程序）\n2. 修复搜索框点击不弹键盘、无法删除文字\n3. 版本号 1.2.1",
+  "changelog": "1. 移除「光猫工具」页面（改为电脑端程序）\n2. 修复搜索框点击不弹键盘、无法删除文字\n3. 版本号 1.1.2",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 776149,
-  "md5": "EC0BD1A0C0B14794BAA1C4A994418D54"
+  "md5": "FD1EA42E4E7BBC1B945E9E97A96CF288"
 }
