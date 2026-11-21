@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.1.3",
+  "versionCode": 49,
+  "versionName": "1.1.4",
   "minSupported": 0,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 修复从云端恢复失败（root 写盘不再走超长命令行）\n2. 云端恢复会先创建 /data/login 目录\n3. 版本号 1.1.3",
+  "changelog": "1. 修复备份文件名含空格/引号时上号、上传失败\n2. 修复云端清单读取失败时被空列表覆盖，导致历史备份消失\n3. 首次使用（还没有清单）不再误报“云端读取失败”\n4. 版本号 1.1.4",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 776149,
-  "md5": "99BA892970E0D1297E5D6CB56674305F"
+  "md5": "41B381F6389A93BEEF3436580A1BCDD9"
 }
