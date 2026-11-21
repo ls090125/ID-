@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "1.1.4",
+  "versionCode": 50,
+  "versionName": "1.1.5",
   "minSupported": 0,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 修复备份文件名含空格/引号时上号、上传失败\n2. 修复云端清单读取失败时被空列表覆盖，导致历史备份消失\n3. 首次使用（还没有清单）不再误报“云端读取失败”\n4. 版本号 1.1.4",
+  "changelog": "1. 修复没有 Root 时启动闪退（读设备属性走了 su，空结果导致崩溃）\n2. 无 Root 时分区页显示明确提示，不再误显示空列表\n3. 版本号 1.1.5",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 776149,
-  "md5": "41B381F6389A93BEEF3436580A1BCDD9"
+  "md5": "92D90721E2CF002876ED0378A9020861"
 }
