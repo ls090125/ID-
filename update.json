@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.2.0",
+  "versionCode": 56,
+  "versionName": "1.2.1",
   "minSupported": 0,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 云端备份新增上传/下载进度条\n2. 多文件备份/恢复时显示整体进度与当前文件序号\n3. 版本号 1.2.0",
+  "changelog": "1. 升级完成后自动删除下载的安装包\n2. 下载中断或取消时也会清理残留文件\n3. 版本号 1.2.1",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 780245,
-  "md5": "4CAED8C94EB86B4EDCFCF46092EF3139"
+  "md5": "C6C0A64ABB3204F6038FCE0510DFC390"
 }
