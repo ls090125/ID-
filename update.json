@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.2.1",
+  "versionCode": 57,
+  "versionName": "1.2.2",
   "minSupported": 0,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 升级完成后自动删除下载的安装包\n2. 下载中断或取消时也会清理残留文件\n3. 版本号 1.2.1",
+  "changelog": "1. 「已保存的登录备份」下方新增游戏导航键，按游戏分类显示备份\n2. 只有备份过的游戏才会出现对应导航键，并显示备份数量\n3. 设置里可开关「登录备份按游戏分类」，关闭后恢复原来的平铺列表\n4. 版本号 1.2.2",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
-  "apkSize": 780245,
-  "md5": "C6C0A64ABB3204F6038FCE0510DFC390"
+  "apkSize": 784341,
+  "md5": "67460269359D22F1D6411F9C7200500F"
 }
