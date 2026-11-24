@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.1.8",
+  "versionCode": 54,
+  "versionName": "1.1.9",
   "minSupported": 0,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 上号器右上角新增「设置」\n2. 「上号后自动打开游戏」勾选移入设置，默认勾选\n3. 设置里可修改 123云盘 WebDAV 账号密码，改完立即生效\n4. 版本号 1.1.8",
+  "changelog": "1. 上号器右上角新增「设置」\n2. 云端备份相关（备份到云端 / 从云端恢复 / 删除云端文件 / 云端状态）全部移入设置\n3. 「上号后自动打开游戏」勾选移入设置，默认勾选\n4. 版本号 1.1.9",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 780245,
-  "md5": "7C442A32F2212B3EA087699EDA45FA2D"
+  "md5": "1826D857548B430169B032254FB320D4"
 }
