@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "1.1.9",
+  "versionCode": 55,
+  "versionName": "1.2.0",
   "minSupported": 0,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 上号器右上角新增「设置」\n2. 云端备份相关（备份到云端 / 从云端恢复 / 删除云端文件 / 云端状态）全部移入设置\n3. 「上号后自动打开游戏」勾选移入设置，默认勾选\n4. 版本号 1.1.9",
+  "changelog": "1. 云端备份新增上传/下载进度条\n2. 多文件备份/恢复时显示整体进度与当前文件序号\n3. 版本号 1.2.0",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
   "apkSize": 780245,
-  "md5": "1826D857548B430169B032254FB320D4"
+  "md5": "4CAED8C94EB86B4EDCFCF46092EF3139"
 }
