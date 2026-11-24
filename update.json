@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.1.7",
+  "versionCode": 53,
+  "versionName": "1.1.8",
   "minSupported": 0,
   "force": false,
   "notice": {
@@ -9,8 +9,8 @@
     "content": "修改 ID 后需要重启手机才会完全生效。\n使用前请先在「分区备份」里做好备份。",
     "enabled": true
   },
-  "changelog": "1. 上号器新增「上号后自动打开游戏」勾选框，默认勾选\n2. 取消勾选则恢复“替换成功→是否打开游戏”确认弹窗\n3. 版本号 1.1.7",
+  "changelog": "1. 上号器右上角新增「设置」\n2. 「上号后自动打开游戏」勾选移入设置，默认勾选\n3. 设置里可修改 123云盘 WebDAV 账号密码，改完立即生效\n4. 版本号 1.1.8",
   "apkUrl": "https://cdn.jsdelivr.net/gh/ls090125/ID-@main/latest.apk",
-  "apkSize": 776149,
-  "md5": "31C735A8C90F4CAC3F1330BA2BA0EB84"
+  "apkSize": 780245,
+  "md5": "7C442A32F2212B3EA087699EDA45FA2D"
 }
